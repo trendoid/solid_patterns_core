@@ -1,6 +1,6 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace PatternsTests
+namespace SolidPatternsCore.PatternsTests
 {
     [TestClass]
     public class UnitTest1
